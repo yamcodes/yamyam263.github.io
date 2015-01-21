@@ -6,6 +6,7 @@ gem "middleman", "~>3.3.7"
 gem "nokogiri"
 gem "slim"
 gem "font-awesome-middleman"
+gem "normalize-scss"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.3.0"

@@ -2,6 +2,7 @@
 require 'nokogiri'           # Scraping data
 require 'open-uri'           # Fetching external websites
 require 'slim'		         # Sexyfying HTML
+require 'normalize-scss'     #
 
 ## Directories ##############
 set :css_dir, 'stylesheets' #
